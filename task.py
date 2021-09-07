@@ -49,7 +49,6 @@ def main():
     fill_the_form()
     take_result_screenshot()
     browser.close_all_browsers()
-    print("Done.")
 
 
 if __name__ == "__main__":
